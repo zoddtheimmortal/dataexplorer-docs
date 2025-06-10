@@ -1,7 +1,7 @@
 ---
 title:  ago()
 description: Learn how to use the ago() function to subtract a given timespan from the current UTC clock time.
-ms.reviewer: alexans
+ms.reviewer: alokd
 ms.topic: reference
 ms.date: 08/11/2024
 ---
