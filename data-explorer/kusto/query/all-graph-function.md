@@ -1,7 +1,7 @@
 ---
 title: all() (graph function)
 description: Learn how to use the all() function to evaluate a condition over the elements of a variable length edge.
-ms.reviewer: michalfaktor
+ms.reviewer: alokd
 ms.topic: reference
 ms.date: 02/27/2025
 ---
