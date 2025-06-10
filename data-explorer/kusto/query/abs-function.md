@@ -1,7 +1,7 @@
 ---
 title:  abs()
 description: Learn how to use the abs() function to calculate the absolute value of an input.
-ms.reviewer: alexans
+ms.reviewer: alokd
 ms.topic: reference
 ms.date: 08/11/2024
 ---
