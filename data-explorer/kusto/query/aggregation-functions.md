@@ -1,7 +1,7 @@
 ---
 title:  Aggregation Functions 
 description: Learn how to use aggregation functions to perform calculations on a set of values and return a single value.
-ms.reviewer: alexans
+ms.reviewer: committest
 ms.topic: reference
 ms.date: 08/11/2024
 ---
