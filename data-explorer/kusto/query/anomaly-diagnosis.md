@@ -1,7 +1,7 @@
 ---
 title: Anomaly diagnosis for root cause analysis
 description: Use machine learning clustering for Root Cause Analysis.
-ms.reviewer: adieldar
+ms.reviewer: interntest
 ms.topic: how-to
 ms.date: 08/11/2024
 ---
