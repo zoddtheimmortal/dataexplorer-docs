@@ -1,7 +1,7 @@
 ---
 title: Enable cluster disk encryption in Azure Data Explorer
 description: This article describes how to secure your cluster using disk encryption in Azure Data Explorer within the Azure portal.
-ms.reviewer: gabil
+ms.reviewer: alokd
 ms.topic: how-to
 ms.date: 04/12/2022
 ---
