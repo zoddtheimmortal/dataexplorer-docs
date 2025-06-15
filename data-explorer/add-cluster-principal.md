@@ -1,7 +1,7 @@
 ---
 title: 'Add cluster principals for Azure Data Explorer'
 description: In this article, you learn how to add cluster principals for Azure Data Explorer.
-ms.reviewer: lugoldbe
+ms.reviewer: alokdesai
 ms.topic: how-to
 ms.date: 05/08/2023
 ---
