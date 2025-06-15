@@ -1,7 +1,7 @@
 ---
 title: Create business continuity and disaster recovery solutions with Azure Data Explorer
 description: This article describes how to create business continuity and disaster recovery solutions with Azure Data Explorer
-ms.reviewer: herauch
+ms.reviewer: alokd
 ms.topic: conceptual
 ms.date: 01/03/2022
 ---
