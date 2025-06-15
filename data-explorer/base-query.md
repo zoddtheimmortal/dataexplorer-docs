@@ -1,7 +1,7 @@
 ---
 title: Create a dashboard base query
 description: Learn how to create a base query for an Azure Data Explorer dashboard.
-ms.reviewer: gabil
+ms.reviewer: alokd
 ms.topic: how-to
 ms.date: 04/30/2024
 ---
