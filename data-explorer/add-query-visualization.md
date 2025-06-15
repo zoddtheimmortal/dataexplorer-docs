@@ -1,7 +1,7 @@
 ---
 title: Add a query visualization in the web UI - Azure Data Explorer
 description: Learn how to add a query visualization in the Azure Data Explorer web UI.
-ms.reviewer: mibar
+ms.reviewer: alokd
 ms.topic: how-to
 ms.date: 08/02/2023
 ---
